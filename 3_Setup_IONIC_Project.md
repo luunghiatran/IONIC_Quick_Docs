@@ -9,19 +9,10 @@ ionic start {appname} {template}
 * template: tabs, sidemenus...
 * Example: tạo ứng dụng my-todo: **ionic start my-todo blank**
 
-### Chỉ định nền tảng cho project
-
-không dùng cũng được, sẽ build sau.
-
-```base
-cd scotch-todo
-ionic platform add ios
-ionic platform add android
-```
-
 ### Xem project trên Browser
 
 ```base
+cd my-todo
 ionic serve --lab
 ```
 
