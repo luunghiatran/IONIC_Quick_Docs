@@ -32,6 +32,9 @@ $ ionic cordova emulate android
 
 // Chạy trên Android
 $ ionic cordova run android
+
+// Debug trên máy ảo Android
+ionic cordova run android --livereload
 ```
 
 **Ghi chú:**
